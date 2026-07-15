@@ -45,27 +45,6 @@ body {
     transform: scale(1.01);
 }
 
-h1 {
-    font-size: 2.4rem;
-    font-weight: 600;
-    letter-spacing: -0.02em;
-    color: #1e293b;
-    margin-bottom: 0.3rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.5rem;
-    flex-wrap: wrap;
-}
-
-.sub {
-    font-size: 1rem;
-    color: #475569;
-    margin-bottom: 2rem;
-    border-bottom: 2px dashed #cbd5e1;
-    padding-bottom: 1rem;
-}
-
 
 /* ---------- COLOR PREVIEW ---------- */
 
@@ -141,25 +120,6 @@ h1 {
     transform: rotate(30deg);
 }
 
-
-/* ---------- FOOTER ---------- */
-
-.footer-note {
-    margin-top: 2.5rem;
-    font-size: 0.95rem;
-    color: #1e293b;
-    background: rgba(255, 255, 255, 0.6);
-    padding: 0.6rem 1.5rem;
-    border-radius: 60px;
-    -webkit-backdrop-filter: blur(2px);
-    backdrop-filter: blur(2px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-}
-
-.footer-note strong {
-    font-weight: 700;
-}
-
 #colorName {
     font-weight: 700;
     padding: 0 0.3rem;
@@ -173,9 +133,6 @@ h1 {
     .card {
         padding: 1.8rem 1.2rem;
         border-radius: 2rem;
-    }
-    h1 {
-        font-size: 1.8rem;
     }
     .btn {
         width: 100%;
