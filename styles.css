@@ -58,16 +58,6 @@ h1 {
     flex-wrap: wrap;
 }
 
-h1 span {
-    background: #1e293b;
-    color: white;
-    font-size: 1.2rem;
-    font-weight: 500;
-    padding: 0.2rem 0.9rem;
-    border-radius: 40px;
-    letter-spacing: 0;
-}
-
 .sub {
     font-size: 1rem;
     color: #475569;
